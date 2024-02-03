@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @npelinmetin
-- 👀 I’m interested in Java and SQL
-- 🌱 I’m currently learning those languages
 - 💕 I hope we get along well
 
 <!---
